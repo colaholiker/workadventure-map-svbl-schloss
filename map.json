@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"playchess.svbalingen.de\/board\/21\/color\/black"
+                 "value":"https:\/\/playchess.svbalingen.de\/board\/21\/color\/black"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -313,7 +313,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"playchess.svbalingen.de\/board\/21\/color\/white"
+                 "value":"https:\/\/playchess.svbalingen.de\/board\/21\/color\/white"
                 }],
          "type":"tilelayer",
          "visible":true,
